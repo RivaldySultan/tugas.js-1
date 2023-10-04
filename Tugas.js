@@ -1,5 +1,5 @@
-const firstName = "Aden";
-const lastName = "Rifalgi Rustam";
+const firstName = "Rivaldy";
+const lastName = "Sultan";
 const age = 20;
 const isMarried = false;
 console.log(firstName);
